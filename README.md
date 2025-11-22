@@ -4,6 +4,9 @@
 
 A Streamlit-based application for automated analysis of legislative documents. The system extracts text from PDF files, processes them through the Groq LLM, and generates structured JSON reports containing summaries, key sections, and compliance rule checks.
 
+## Demo Video
+[LINK](https://drive.google.com/file/d/15eOLKrFhvsZtaF-hIMHiBV1RgSluzQLX/view?usp=sharing)
+
 ## Tech Stack
 
 ### Core Technologies
